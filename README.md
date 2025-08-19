@@ -1,8 +1,6 @@
 # 💫 About Me:
 <br>🔍 Curious learner<br><br>🛠️ Building projects <br><br>⚙️ Exploring AI & automation<br><br>🎓 Studying Computing (BIT)<br><br>✅ Certified in German Language (B1)
 
-## GitHub Profile Views
-[![Visitor Count](https://profile-counter.glitch.me/Basantae/count.svg)](https://github.com/Basantae)
 
 
 ## 🌐 Socials:
