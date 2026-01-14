@@ -84,20 +84,5 @@
 
 ---
 
-## 📈 Profile Views
 
-<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Basantae&icon=2&color=13&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Feel free to fork this repository and star it if you find it helpful!
-
-**Let's build something amazing together!** 🚀
-
-</div>
