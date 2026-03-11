@@ -1,4 +1,4 @@
-# 🚀 Basanta Rokaha | Full Stack Developer & AI Enthusiast
+# Basanta Rokaha | Full Stack Developer & AI Enthusiast
 
 <div align="center">
 
